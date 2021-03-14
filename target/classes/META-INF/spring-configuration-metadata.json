@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "myphone",
+      "type": "com.kgc.hello.entity.Phone",
+      "sourceType": "com.kgc.hello.entity.Phone"
+    }
+  ],
+  "properties": [
+    {
+      "name": "myphone.brand",
+      "type": "java.lang.String",
+      "sourceType": "com.kgc.hello.entity.Phone"
+    },
+    {
+      "name": "myphone.price",
+      "type": "java.lang.Integer",
+      "sourceType": "com.kgc.hello.entity.Phone"
+    }
+  ],
+  "hints": []
+}

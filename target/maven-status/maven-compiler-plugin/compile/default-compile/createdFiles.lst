@@ -1,0 +1,7 @@
+com\kgc\hello\config\MyConfig.class
+com\kgc\hello\controller\HelloController.class
+com\kgc\hello\HelloApplication.class
+com\kgc\hello\entity\Phone.class
+com\kgc\hello\entity\Car.class
+com\kgc\hello\entity\User.class
+META-INF\spring-configuration-metadata.json
